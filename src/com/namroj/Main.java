@@ -1,14 +1,7 @@
 package com.namroj;
 
-import com.namroj.memento.Editor;
-import com.namroj.memento.History;
-import com.namroj.state.BrushTool;
-import com.namroj.state.Canvas;
-import com.namroj.state.EraseTool;
-import com.namroj.state.SelectionTool;
-
 public class Main {
-
+    /*
     public static void main(String[] args) {
 
         //Memento Pattern
@@ -40,5 +33,8 @@ public class Main {
 		canvas.setCurrentTool(new EraseTool());
 		canvas.mouseDown();
 		canvas.mouseUp();
+
+        //Strategy Pattern
     }
+    */
 }
